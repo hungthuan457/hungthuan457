@@ -1,0 +1,27 @@
+{
+  "name": "hungthuan457",
+  "version": "1.0.0",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "sum-setpass": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hungthuan457/hungthuan457"
+  },
+  "homepage": "twitter.com/hungthuan457",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "hungthuan457",
+  "license": "MIT"
+}
